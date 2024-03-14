@@ -1,1 +1,1 @@
-
+"Ghost Chase" est un jeu d'arcade passionnant qui vous transporte dans un univers fantastique, où vous incarnez un archer légendaire en quête de gloire et d'aventure. Inspiré par les classiques du genre tels que Pac-Man, ce jeu offre une expérience captivante tout en proposant des mécaniques de jeu innovantes et des défis palpitants. Ce jeu un projet de 1ere NSI des élèves de George Clemenceau. On a choisit de faire se jeu vidéo en hommage à pac-man car on est rentré dans le monde du gaming grâce à ce jeu.
