@@ -5,4 +5,4 @@ Notre projet requiert soit python ou sinon edupython pour être lancé. Notre pr
 Notre projet est sous la Licence Apache.
 Statut du projet: Stable
 
-Projet Réalisez par: Maximiliano Quinones(max25.nemeth@gmail.com), Jeremy Prasais(Jeremy.prasais2@gmail.com), Nathan Heitz(nathan.heitz@gmail.com), felix.quatrain@gmail.com) et Pauls Saralta(pauls.saralta@gmail.com)
+Projet Réalisez par: Maximiliano Quinones(max25.nemeth@gmail.com), Jeremy Prasais(Jeremy.prasais2@gmail.com), Nathan Heitz(nathan.heitz@gmail.com), Félix Quatrain(felix.quatrain@gmail.com) et Pauls Saralta(pauls.saralta@gmail.com)
