@@ -7,4 +7,4 @@ Notre projet est un open source ce qui veut dire que tout le monde peut y contri
 Notre projet est sous la Licence Apache. 
 Statut du projet: Stable
 
-Projet Réalisez par: Maximiliano Quinones(max25.nemeth@gmail.com), Jeremy Prasais(Jeremy.prasais2@gmail.com), Nathan Heitz(nathan.heitz@gmail.com), Félix Quatrain(felix.quatrain@gmail.com) et Pauls Saralta(pauls.saralta@gmail.com)
+Projet réalisé par: Maximiliano Quinones(max25.nemeth@gmail.com), Jeremy Prasais(Jeremy.prasais2@gmail.com), Nathan Heitz(nathan.heitz@gmail.com), Félix Quatrain(felix.quatrain@gmail.com) et Pauls Saralta(pauls.saralta@gmail.com)
